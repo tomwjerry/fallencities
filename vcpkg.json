@@ -1,0 +1,6 @@
+{
+  "dependencies": [
+    "uwebsockets"
+  ],
+  "builtin-baseline": "4c4abc2e8727221ede31021349386dac674309b0"
+}

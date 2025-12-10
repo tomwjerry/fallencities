@@ -1,2 +1,5 @@
 uWebSockets
 flecs
+build
+out
+.vs
